@@ -3,9 +3,10 @@
 #include <iostream>
 
 
+
+
 //std;;cout
 using namespace std;
-
 // glavna funkcija
 int main()
 {
